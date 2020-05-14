@@ -65,8 +65,9 @@ h2 {
 .nav-item {
   font-size: 1rem;
   font-family: 'Poppins', sans-serif;
-  font-weight: 100;
+  font-weight: 200;
   padding: 0 18px;
+  color: black;
 }
 
 .backcolor {
@@ -153,6 +154,146 @@ h3 {
   margin-top: 5%;
 }
 
-.carousel-control-prev-icon {
-  background-color: : grey;
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.details {
+  line-height: 2;
+}
+
+.more {
+  margin-left: 5.5%;
+}
+.pp {
+  font-size: 1.7rem;
+}
+.titleeis {
+  padding: 10% 0;
+  text-align: right;
+}
+
+.project-heading {
+  text-align: left;
+  margin-left: 9%;
+
+}
+
+.eistitletext {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  font-weight: 100;
+  text-align: left;
+  margin-left: 9%;
+}
+
+#projectnavbar {
+  margin-bottom: 0;
+  padding-bottom: 2%;
+}
+.eispic {
+  width: 60%;
+  padding-bottom: 2%;
+}
+
+.foodusetext {
+  margin-left: 0;
+}
+
+#Eis-Overview {
+  background-color: #ffe8df;
+  border-radius: 15px;
+  padding: 3% 6%;
+  margin: 7% 10% 5% 10%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 0.89rem;
+}
+
+.h3right {
+  text-align: left;
+  margin-left: 2%;
+}
+
+.hrright {
+  margin-right: 57%;
+  width: 40%;
+  text-align: left;
+}
+
+#Eis-First-Steps {
+  background-color: #f0f0f0;
+  border-radius: 15px;
+  padding: 3% 6%;
+  margin: 7% 10% 5% 10%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 0.89rem;
+}
+
+.researchpic {
+  margin-top: 5%;
+  width: 80%;
+}
+
+#Eis-Wireframing {
+  background-color: #ffe8df;
+  border-radius: 15px;
+  padding: 3% 6%;
+  margin: 7% 10% 5% 10%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 0.89rem;
+}
+
+.wireframe {
+  margin: auto 0;
+  width: 70%;
+}
+
+#Eis-Interfaces {
+  background-color: #f0f0f0;
+  border-radius: 15px;
+  padding: 3% 6%;
+  margin: 7% 10% 5% 10%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 0.89rem;
+}
+
+#Github {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.github {
+  margin-top: 3%;
+}
+
+h5 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 200;
+}
+
+#Eis-Role {
+  background-color: #ffe8df;
+  border-radius: 15px;
+  padding: 3% 6%;
+  margin: 7% 10% 5% 10%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 0.89rem;
+}
+
+.role {
+  width: 60%;
+  margin: 10% 3% 10% 10%;
 }
