@@ -259,12 +259,13 @@ h3 {
 #Eis-Interfaces {
   background-color: #f0f0f0;
   border-radius: 15px;
-  padding: 3% 6%;
+  padding: 3% 6% 0 6%;
   margin: 7% 10% 5% 10%;
   text-align: left;
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
   font-size: 0.89rem;
+  position: relative;
 }
 
 #Github {
@@ -291,9 +292,74 @@ h5 {
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
   font-size: 0.89rem;
+  position: relative;
+  z-index: 1;
 }
 
 .role {
   width: 60%;
   margin: 10% 3% 10% 10%;
+}
+.handy {
+  width: 70%;
+  transform: rotate(15deg);
+  margin-left: 20%;
+
+
+}
+
+.phonepic {
+  position: relative;
+}
+
+.wireframepic {
+  width: 90%;
+}
+
+.pppic {
+  width: 70%;
+  padding: 2%;
+}
+
+.ppheadline {
+  font-size: 2rem;
+}
+
+.books {
+  width: 70%;
+  margin-top: 20%;
+  margin-left: 10%;
+}
+.conducting {
+  margin-bottom: 5%;
+  margin-left: 15%;
+  width: 60%;
+}
+
+.interview {
+  width: 60%;
+  margin: 15% 0 0 30%;
+}
+
+.questionnaire {
+  width: 60%;
+  margin-right: 7%;
+  margin-bottom: 7%;
+  margin-left: 15%;
+}
+
+#PP-Interview {
+  background-color: #f0f0f0;
+  border-radius: 15px;
+  padding: 3% 6% 3% 6%;
+  margin: 7% 10% 5% 10%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 0.89rem;
+  position: relative;
+}
+.pp {
+  margin-top: 2%;
+  font-size: 1.25rem;
 }
