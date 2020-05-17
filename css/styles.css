@@ -404,3 +404,124 @@ h5 {
   border-radius: 5%;
   margin-left: 20%;
 }
+
+#contact {
+  text-align: center;
+}
+.contactbutton {
+  margin: 2% 1%;
+
+}
+
+
+@media (max-width: 1028px) {
+
+
+  .profileicon {
+    margin-top: 3%;
+    width: 90%;
+  }
+
+.textpart {
+  text-align: center;
+}
+
+h1 , h2 {
+  text-align: center;
+}
+
+.titletext {
+  text-align: center;
+}
+
+.projectphoto {
+  margin: 5% 0 0 10%;
+}
+
+.more {
+  text-align: center;
+  margin: 2% 0 2% 30%;
+}
+ h3 {
+   font-size: 1.5rem;
+   text-align: center;
+ }
+
+ .eispic {
+   width: 60%;
+   margin-right: 15%;
+ }
+.projectphoto {
+  width: 80%;
+  margin-bottom: 5%;
+}
+.researchpic {
+  width: 60%;
+  margin-top: 5%;
+  margin-left: 15%;
+}
+.wireframepic {
+  margin: 3% 0 7% 15%;
+  width: 120%;
+}
+
+.handy {
+  margin-right: 25%;
+  width: 60%;
+}
+
+.role {
+  width: 55%;
+  margin: 0 0 5% 22%;
+}
+.pppic {
+  width: 60%;
+  margin-right: 15%;
+}
+.books {
+  width: 45%;
+  margin-left: 25%;
+  margin-bottom: 3%;
+
+}
+.questionnaire {
+  width: 55%;
+  margin-left: 25%;
+}
+
+.interview {
+  width: 55%;
+  margin-right: 60%;
+}
+
+.conducting {
+  margin-left: 20%;
+}
+.app1 {
+  margin-bottom: 10%;
+}
+.app2 {
+  margin: 0 0 10% 0;
+}
+
+.app3 {
+  margin: 0 0 10% 0;
+}
+
+.bapic {
+  margin-right: 12%;
+}
+
+.ta {
+  margin-right: 15%;
+  margin-top: 4%;
+  width: 60%;
+}
+
+.persona {
+  margin-bottom: 5%;
+}
+.elearning {
+  width: 60%;
+}
+}
